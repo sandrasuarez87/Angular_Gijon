@@ -6,7 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular Gijón';
-  autor = 'Sandra Suárez Navarro';
-  fecha = '2017';
+  title = 'app';
 }
